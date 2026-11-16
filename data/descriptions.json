@@ -1,0 +1,126 @@
+{
+  "openers": {
+    "house": [
+      "Set back from the street, this {beds}-bedroom home in {region} feels quiet and private.",
+      "The kind of {region} home buyers keep hoping to find: here it is.",
+      "A welcoming {beds}-bedroom house in {region} with real curb appeal.",
+      "Tucked into a friendly stretch of {region}, this house checks the boxes that matter.",
+      "First impression counts: this {region} home greets you with light and warmth."
+    ],
+    "condo": [
+      "Low-maintenance living in {region}, done right.",
+      "A smart {beds}-bedroom condo in {region} for buyers who want lock-and-leave ease.",
+      "City energy outside the door, calm inside: this {region} condo delivers both.",
+      "Move-in ready and honestly priced, this {region} condo is an easy yes.",
+      "Effortless living on tap in this well-run {region} building."
+    ],
+    "townhouse": [
+      "The garage townhouse you keep hoping to find: here it is, in {region}.",
+      "A crisp {beds}-bedroom townhome in {region} with none of the usual compromises.",
+      "Vertical living, horizontal charm: this {region} townhome works.",
+      "Row-house rhythm with a modern soul, right in {region}.",
+      "Three levels of smart planning in this {region} townhome."
+    ]
+  },
+  "sqft": [
+    "Generous for its price band: {sqft:,} sqft in a {beds}-bedroom, {baths}-bath arrangement.",
+    "Room to breathe across {sqft:,} sqft.",
+    "A well-planned {sqft:,} sqft layout that wastes nothing.",
+    "Practical square footage — {sqft:,} sqft, easy to furnish and live in.",
+    "The floor plan uses all {sqft:,} sqft to good effect."
+  ],
+  "year_eras": {
+    "old": [
+      "A {year} classic with mature trees and quiet bones.",
+      "Built in {year}, when walls were thick and lots were deep.",
+      "This {year} original has aged gracefully under attentive owners."
+    ],
+    "mid": [
+      "The {year} construction has been cared for by long-term owners.",
+      "A solid {year} build with the kinks already worked out.",
+      "Constructed in {year} and thoughtfully updated where it counts."
+    ],
+    "new": [
+      "The {year} construction shows crisp, contemporary detailing.",
+      "Recent {year} build: efficient systems and clean lines.",
+      "A {year} build with a fresh, contemporary feel."
+    ]
+  },
+  "features": {
+    "good_schools": [
+      "zoned to well-rated schools",
+      "a short walk to highly rated campuses",
+      "inside a sought-after school zone"
+    ],
+    "yard": [
+      "a landscaped yard",
+      "a fenced backyard ready for weekend cookouts",
+      "green outdoor space of its own"
+    ],
+    "family_friendly": [
+      "family-friendly with room for everyone to spread out",
+      "a setup that suits households of all ages",
+      "kid-approved space inside and out"
+    ],
+    "quiet_street": [
+      "a quiet street that stays calm at rush hour",
+      "low-traffic surroundings",
+      "peekaboo peace on a sleepy block"
+    ],
+    "pool": [
+      "a sparkling community pool",
+      "pool access for hot Texas afternoons",
+      "its own pool"
+    ],
+    "views": [
+      "opening views you will not tire of",
+      "a vantage worth the asking price",
+      "sightlines that sell themselves"
+    ],
+    "walkable": [
+      "a short walk to coffee and groceries",
+      "errands on foot, no car required",
+      "a genuinely walkable pocket"
+    ],
+    "modern": [
+      "a modern refresh throughout",
+      "current finishes and smart-system ready",
+      "renovated with a light, contemporary touch"
+    ],
+    "affordable": [
+      "honestly priced for the area",
+      "real value against nearby comps",
+      "an approachable entry point"
+    ],
+    "office_space": [
+      "a dedicated office nook",
+      "work-from-home-ready study space",
+      "a den that doubles as a home office"
+    ],
+    "waterfront": [
+      "water at the end of the street",
+      "lake-life living",
+      "waterfront access nearby"
+    ],
+    "garage": [
+      "a covered garage that fits the whole household",
+      "private parking off the alley",
+      "secure garage parking"
+    ]
+  },
+  "area": [
+    "The {region} location keeps the daily loop simple.",
+    "Living in {region} means the good stuff is close by.",
+    "Everything {region} is known for is minutes away."
+  ],
+  "closers": [
+    "Showings move quickly here; early tours recommended.",
+    "Homes like this rarely sit — schedule a visit.",
+    "Priced with intent; the sellers are ready to move.",
+    "Bring your agent and your imagination.",
+    "A straightforward opportunity in a competitive market.",
+    "Serious buyers only, please — sellers value privacy.",
+    "First open house expected to draw traffic.",
+    "Also available for a private preview on weekdays."
+  ]
+}
